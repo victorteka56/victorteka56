@@ -18,7 +18,7 @@
         <img width="40" height="40" src="https://img.icons8.com/fluency/48/null/apple-mail.png"/>
     </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://i.imgur.com/NhPnhNu.png" alt="Discord" title="Victor Bahta Discord"><img width="32px" src="https://i.imgur.com/Q6RhKZE.png"/></a>
+  <a href="https://i.imgur.com/NhPnhNu.png" alt="Discord" title="Victor Bahta Discord"><img width="32px" src="https://i.imgur.com/EvTcwyc.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/victorbahta"><img width="32px" alt="Dev.to" title="Victor Bahta Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
