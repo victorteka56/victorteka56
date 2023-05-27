@@ -15,12 +15,12 @@
   <a href="https://www.linkedin.com/in/victorbahta"><img width="32px" alt="Linkedin" title="Linkedin" src="https://i.imgur.com/kpEUy4T.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="mailto:78victors@gmail.com" target='_blank'>
-        <img width="32" height="32" src="https://img.icons8.com/fluency/48/null/apple-mail.png"/>
+        <img width="40" height="40" src="https://img.icons8.com/fluency/48/null/apple-mail.png"/>
     </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discordapp.com/users/954184452068765707" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://discordapp.com/users/954184452068765707" alt="Discord" title="Victor Bahta Discord"><img width="32px" src="https://i.imgur.com/O1cvPuv.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  <a href="https://dev.to/victorbahta"><img width="32px" alt="Dev.to" title="Victor Bahta Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
