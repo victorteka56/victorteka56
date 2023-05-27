@@ -12,7 +12,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="www.linkedin.com/in/victorbahta"><img width="32px" alt="Linkedin" title="Linkedin" src="https://i.imgur.com/OQUXwNp"/></a>
+  <a href="https://www.linkedin.com/in/victorbahta"><img width="32px" alt="Linkedin" title="Linkedin" src="https://i.imgur.com/kpEUy4T.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
