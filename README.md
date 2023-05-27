@@ -23,12 +23,15 @@ Hi there! I'm Victor, and I am a Software Engineer based in the US. I love learn
 
 ## Skills and Experience
 * ⚛ Java
-* * Spring
+* * Spring, Spring boot, Hibernate
 * JavaScript
+* * NodeJS, ReactJs, React Native
 * Python
 * PHP
-* 📱 React Native
-* 💻 HTML, CSS, JS
+* * Laravel
+* Cloud
+* * AWS, GCP
+* HTML, CSS, JS
 
 
 
