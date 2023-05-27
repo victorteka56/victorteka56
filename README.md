@@ -5,7 +5,7 @@
 <hr />
 <!-- Social icons section -->
 <p align="center">
-  <p>Connect with me:</p> 
+  <span style="font-size:32px;">Connect with me :</span>
   <a href="https://www.linkedin.com/in/victorbahta"><img width="32px" alt="Linkedin" title="Linkedin" src="https://i.imgur.com/PHl6kB7.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="mailto:78victors@gmail.com" target='_blank'>
