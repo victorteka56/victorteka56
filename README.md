@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/victorbahta"><img width="32px" alt="Linkedin" title="Linkedin" src="https://i.imgur.com/kpEUy4T.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="mailto:78victors@gmail.com" target='_blank'>
-        <img width="26" height="26" src="https://img.icons8.com/fluency/48/null/apple-mail.png"/>
+        <img width="32" height="32" src="https://img.icons8.com/fluency/48/null/apple-mail.png"/>
     </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discordapp.com/users/954184452068765707" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
