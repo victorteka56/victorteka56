@@ -3,7 +3,8 @@
     <img src="https://i.imgur.com/zcgPJrY.jpg" alt="Victor Bahta" /></a>
 </p>
 <hr />
-# Victor B Teka
+
+## Victor B Teka
 Hi there! I'm Victor, and I am a Software Engineer based in the US. I love learning languages and frameworks  I also enjoy wireframing, ui, ux, and design in general. 
 
 ## Skills and Experience
