@@ -12,10 +12,10 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/victorbahta"><img width="32px" alt="Linkedin" title="Linkedin" src="https://i.imgur.com/kpEUy4T.png"/></a>
+  <a href="https://www.linkedin.com/in/victorbahta"><img width="32px" alt="Linkedin" title="Linkedin" src="https://i.imgur.com/PHl6kB7.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="mailto:78victors@gmail.com" target='_blank'>
-        <img width="40" height="40" src="https://img.icons8.com/fluency/48/null/apple-mail.png"/>
+        <img src="https://i.imgur.com/dC5JCRq.png"/>
     </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://i.imgur.com/NhPnhNu.png" alt="Discord" title="Victor Bahta Discord"><img width="32px" src="https://i.imgur.com/EvTcwyc.png"/></a>
