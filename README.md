@@ -2,7 +2,6 @@
   <a href="https://github.com/victorbahta">
     <img src="https://i.imgur.com/zcgPJrY.jpg" alt="Victor Bahta" /></a>
 </p>
-<hr />
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/victorbahta"><img width="32px" alt="Linkedin" title="Linkedin" src="https://i.imgur.com/PHl6kB7.png"/></a>
