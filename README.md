@@ -4,7 +4,7 @@
 </p>
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/victorbahta"><img width="32px" alt="Linkedin" title="Linkedin" src="https://i.imgur.com/PHl6kB7.png"/></a>
+  <a href="https://www.linkedin.com/in/victorteka"><img width="32px" alt="Linkedin" title="Linkedin" src="https://i.imgur.com/PHl6kB7.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="mailto:78victors@gmail.com" target='_blank'>
         <img src="https://i.imgur.com/dC5JCRq.png"/>
