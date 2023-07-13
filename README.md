@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/victorbahta">
-    <img src="https://i.imgur.com/zcgPJrY.jpg" alt="Victor Bahta" /></a>
+    <img src="https://i.imgur.com/CLrX8OH.png" alt="Victor Bahta" /></a>
 </p>
 <!-- Social icons section -->
 <p align="center">
@@ -17,7 +17,7 @@
 </p>
 
 ## Victor B Teka
-Hi there! I'm Victor, and I am a Software Engineer based in the US. I love learning languages and frameworks  I also enjoy wireframing, ui, ux, and design in general. 
+Greetings! I'm Victor, a dynamic and versatile Full Stack Software Engineer. I relish opportunities to master an extensive spectrum of technologies, from frontend  encompassing wireframing, UI, and UX, to crafting robust and scalable backend solutions
 
 ## Skills and Experience
 * ⚛ Java
