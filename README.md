@@ -20,7 +20,7 @@
 Greetings! I'm Victor, a dynamic and versatile Full Stack Software Engineer. I am experienced with extensive spectrum of technologies, from frontend  encompassing wireframing, UI, and UX, to crafting robust and scalable backend solutions
 
 ## Skills and Experience
-* ⚛ Java
+* Java
 * * Spring, Spring boot, Hibernate
 * JavaScript
 * * NodeJS, ReactJs, React Native
