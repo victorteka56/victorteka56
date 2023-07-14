@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/victorbahta">
-    <img src="https://i.imgur.com/CLrX8OH.png" alt="Victor Bahta" /></a>
+    <img src="https://i.imgur.com/cYlTFyf.png" alt="Victor Bahta" /></a>
 </p>
 <!-- Social icons section -->
 <p align="center">
