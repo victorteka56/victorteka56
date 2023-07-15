@@ -10,7 +10,7 @@
         <img src="https://i.imgur.com/dC5JCRq.png"/>
     </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://i.imgur.com/NhPnhNu.png" alt="Discord" title="Victor Bahta Discord"><img width="32px" src="https://i.imgur.com/EvTcwyc.png"/></a>
+  <a href="https://discordapp.com/users/2203" alt="Discord" title="Victor Bahta Discord"><img width="32px" src="https://i.imgur.com/EvTcwyc.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/victorbahta"><img width="32px" alt="Dev.to" title="Victor Bahta Dev.to" src="https://i.imgur.com/423wzOM.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
